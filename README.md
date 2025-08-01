@@ -20,12 +20,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](/screenshot/blog-preview-card.png)
-![](/screenshot/blog-preview-card-hover.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://github.com/mddasian/blog-preview-card-solution)
+![](/screenshots/blog-preview-card.png)
+![](/screenshots/blog-preview-card-hover.png)
 
 ## My process
 
